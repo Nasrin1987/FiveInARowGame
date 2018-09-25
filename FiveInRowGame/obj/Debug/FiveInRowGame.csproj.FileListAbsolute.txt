@@ -1,0 +1,15 @@
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\bin\Debug\FiveInRowGame.exe.config
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\bin\Debug\FiveInRowGame.exe
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\bin\Debug\FiveInRowGame.pdb
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\MainWindow.g.cs
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\App.g.cs
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame_MarkupCompile.cache
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame_MarkupCompile.lref
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\MainWindow.baml
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame.g.resources
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame.Properties.Resources.resources
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame.csproj.GenerateResource.cache
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame.csproj.CoreCompileInputs.cache
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame.exe
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame.pdb
+C:\Users\Nasrin\Documents\CodeRepository\FiveInRowGame\FiveInRowGame\obj\Debug\FiveInRowGame.csprojAssemblyReference.cache
